@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "src/main.ts",
   "author": "chikuwa111",
-  "license": "MIT",
   "devDependencies": {
+    "@google/clasp": "^2.1.0",
     "@types/google-apps-script": "^0.0.53",
     "prettier": "^1.18.2",
     "typescript": "3.3.3"
