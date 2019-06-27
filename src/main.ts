@@ -15,7 +15,7 @@ function main() {
     if (success) count++;
     Utilities.sleep(1500);
   });
-  postMessage(TOKEN, CHANNEL_ID, `Successfully deleted ${count} messages`);
+  postMessage(TOKEN, CHANNEL_ID, `SlackCleaner: Successfully deleted ${count} messages`);
 }
 
 type Message = {
