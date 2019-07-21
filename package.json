@@ -1,5 +1,5 @@
 {
-  "name": "SlackCleaner",
+  "name": "slackcleaner",
   "version": "1.0.0",
   "main": "src/main.ts",
   "author": "chikuwa111",
