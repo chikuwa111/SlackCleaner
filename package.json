@@ -4,9 +4,9 @@
   "main": "src/main.ts",
   "author": "chikuwa111",
   "devDependencies": {
-    "@google/clasp": "^2.1.0",
-    "@types/google-apps-script": "^0.0.53",
+    "@google/clasp": "^2.2.1",
+    "@types/google-apps-script": "^0.0.54",
     "prettier": "^1.18.2",
-    "typescript": "3.3.3"
+    "typescript": "3.5.3"
   }
 }
